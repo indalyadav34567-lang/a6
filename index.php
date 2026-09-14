@@ -214,43 +214,43 @@
   </section>
 
   <!-- SECTION 5: INTERACTIVE MINAUDIÈRE ATELIER & SPECIFICATION COMMONS -->
-  <section class="section section-sim-lab" style="padding: 5.5rem 0; background: #18111A; color: #FFFFFF;">
+  <section class="section section-dark section-sim-lab" style="padding: 5.5rem 0; background: #18111A; color: #FFFFFF;">
     <div class="container">
       <div class="text-center" style="max-width: 800px; margin: 0 auto 3rem;">
         <span class="hero-badge" style="background: rgba(212, 175, 55, 0.15); color: #D4AF37; border: 1px solid rgba(212, 175, 55, 0.3);">VIRTUAL ATELIER WORKBENCH</span>
-        <h2 style="margin: 0.8rem 0; color: #FFFFFF;">Interactive Pochette Specification &amp; Craft Commons</h2>
-        <p class="lead" style="color: #D4C7D6; font-size: 1.05rem;">
+        <h2 style="margin: 0.8rem 0; color: #FFFFFF !important;">Interactive Pochette Specification &amp; Craft Commons</h2>
+        <p class="lead" style="color: #F3EBF5 !important; font-size: 1.05rem;">
           Examine the microscopic bead counts, structural tolerances, and silk interior architectures calibrated at 181 Mercer Street.
         </p>
       </div>
       <div style="background: #0D090E; border-radius: var(--radius-md); border: 1px solid rgba(212, 175, 55, 0.25); overflow: hidden;">
         <div style="display: flex; background: rgba(24, 17, 26, 0.8); border-bottom: 1px solid rgba(212, 175, 55, 0.2); overflow-x: auto;">
           <button class="spec-tab-btn active" style="padding: 1rem 1.8rem; background: transparent; border: none; border-bottom: 2px solid #D4AF37; color: #D4AF37; font-weight: 600; cursor: pointer; font-size: 0.95rem;">Tambour Beading Array</button>
-          <button class="spec-tab-btn" style="padding: 1rem 1.8rem; background: transparent; border: none; color: #D4C7D6; font-weight: 600; cursor: pointer; font-size: 0.95rem;">Brass Chassis Metallurgy</button>
-          <button class="spec-tab-btn" style="padding: 1rem 1.8rem; background: transparent; border: none; color: #D4C7D6; font-weight: 600; cursor: pointer; font-size: 0.95rem;">Mulberry Silk Interior</button>
-          <button class="spec-tab-btn" style="padding: 1rem 1.8rem; background: transparent; border: none; color: #D4C7D6; font-weight: 600; cursor: pointer; font-size: 0.95rem;">Evening Chain Articulation</button>
+          <button class="spec-tab-btn" style="padding: 1rem 1.8rem; background: transparent; border: none; color: #E5DCE8; font-weight: 600; cursor: pointer; font-size: 0.95rem;">Brass Chassis Metallurgy</button>
+          <button class="spec-tab-btn" style="padding: 1rem 1.8rem; background: transparent; border: none; color: #E5DCE8; font-weight: 600; cursor: pointer; font-size: 0.95rem;">Mulberry Silk Interior</button>
+          <button class="spec-tab-btn" style="padding: 1rem 1.8rem; background: transparent; border: none; color: #E5DCE8; font-weight: 600; cursor: pointer; font-size: 0.95rem;">Evening Chain Articulation</button>
         </div>
         <div style="padding: 2.5rem;">
           <div class="spec-tab-panel" style="display: grid; grid-template-columns: 1.2fr 1fr; gap: 2.5rem; align-items: center;">
             <div>
               <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
-                <h3 style="color: #FFFFFF; font-size: 1.3rem;">Bespoke Midnight Noir Crystal Pochette</h3>
+                <h3 style="color: #FFFFFF !important; font-size: 1.3rem;">Bespoke Midnight Noir Crystal Pochette</h3>
                 <span style="background: rgba(212, 175, 55, 0.2); color: #E5C158; font-size: 0.75rem; padding: 0.25rem 0.6rem; border-radius: var(--radius-pill); font-weight: 700;">HAUTE LAPIDARY BENCHMARK</span>
               </div>
-              <p style="color: #D4C7D6; font-size: 0.92rem; line-height: 1.6; margin-bottom: 1.5rem;">
+              <p style="color: #E2D9E5 !important; font-size: 0.92rem; line-height: 1.6; margin-bottom: 1.5rem;">
                 Featuring an intricate mosaic of jet-black faceted Czech seed beads accented with 1.8 mm pavé crystal baguettes. The tapestry is secured onto triple-twisted bonded silk filigree, creating a supple, glittering hand that articulates without stiff ridges.
               </p>
               <div style="background: rgba(24, 17, 26, 0.6); padding: 1.2rem; border-radius: var(--radius-sm); border: 1px solid rgba(255, 255, 255, 0.08);">
                 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; text-align: center;">
-                  <div><div style="color: #D4AF37; font-weight: 700; font-size: 1.1rem;">18,420</div><div style="color: #9C8A9E; font-size: 0.75rem;">Total Micro Beads</div></div>
-                  <div><div style="color: #E5C158; font-weight: 700; font-size: 1.1rem;">48.5 N</div><div style="color: #9C8A9E; font-size: 0.75rem;">Thread Tensile Tenacity</div></div>
-                  <div><div style="color: #D4AF37; font-weight: 700; font-size: 1.1rem;">142 Hours</div><div style="color: #9C8A9E; font-size: 0.75rem;">Atelier Hand Labor</div></div>
+                  <div><div style="color: #D4AF37; font-weight: 700; font-size: 1.1rem;">18,420</div><div style="color: #E5DCE8; font-size: 0.78rem; font-weight: 500;">Total Micro Beads</div></div>
+                  <div><div style="color: #E5C158; font-weight: 700; font-size: 1.1rem;">48.5 N</div><div style="color: #E5DCE8; font-size: 0.78rem; font-weight: 500;">Thread Tensile Tenacity</div></div>
+                  <div><div style="color: #D4AF37; font-weight: 700; font-size: 1.1rem;">142 Hours</div><div style="color: #E5DCE8; font-size: 0.78rem; font-weight: 500;">Atelier Hand Labor</div></div>
                 </div>
               </div>
             </div>
             <div style="background: rgba(24, 17, 26, 0.9); border: 1px solid rgba(212, 175, 55, 0.3); border-radius: var(--radius-sm); padding: 1.5rem;">
               <div style="font-family: monospace; font-size: 0.8rem; color: #D4AF37; margin-bottom: 0.8rem;">[ATELIER_CRAFT_LOG // 181 MERCER STREET]</div>
-              <pre style="color: #F0E8F2; font-size: 0.78rem; line-height: 1.5; overflow-x: auto; background: transparent; border: none; padding: 0;">
+              <pre style="color: #FFFFFF !important; font-size: 0.8rem; line-height: 1.6; font-weight: 500; overflow-x: auto; background: transparent; border: none; padding: 0;">
 BEAD_SPEC: Czech Preciosa Ornela Size 11/0
 CRYSTAL: Swarovski Xirius 1.8mm Jet Crystal
 FRAME_ALLOY: C36000 Solid Leaded Brass
@@ -448,23 +448,23 @@ ORIGIN: 181 Mercer St, SoHo, Manhattan
   </section>
 
   <!-- SECTION 9: 181 MERCER HAUTE ATELIER & ARCHITECTURE -->
-  <section class="section section-atelier" style="padding: 5.5rem 0; background: #0D090E; color: #FFFFFF;">
+  <section class="section section-dark section-atelier" style="padding: 5.5rem 0; background: #0D090E; color: #FFFFFF;">
     <div class="container">
       <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 4rem; align-items: center;">
         <div>
           <span class="hero-badge" style="background: rgba(212, 175, 55, 0.15); color: #D4AF37; border: 1px solid rgba(212, 175, 55, 0.3);">THE MANHATTAN SALON</span>
-          <h2 style="margin: 1rem 0; color: #FFFFFF; font-size: 2.3rem;">181 Mercer Street Atelier &amp; Draping Vault</h2>
-          <p style="color: #D4C7D6; font-size: 1.05rem; line-height: 1.7; margin-bottom: 2rem;">
+          <h2 style="margin: 1rem 0; color: #FFFFFF !important; font-size: 2.3rem;">181 Mercer Street Atelier &amp; Draping Vault</h2>
+          <p style="color: #E2D9E5 !important; font-size: 1.05rem; line-height: 1.7; margin-bottom: 2rem;">
             Situated in the historic cast-iron district of SoHo, our 181 Mercer Street salon houses specialized tambour embroidery frames, jewelry-grade goldsmith benches, and private patron fitting suites.
           </p>
           <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem;">
             <div style="background: rgba(24, 17, 26, 0.8); padding: 1.2rem; border-radius: var(--radius-sm); border: 1px solid rgba(212, 175, 55, 0.2);">
               <div style="font-size: 1.2rem; font-weight: 700; color: #D4AF37;">Lapidary Vault</div>
-              <p style="font-size: 0.85rem; color: #D4C7D6; margin: 0.3rem 0 0;">Housing over 400 varieties of vintage Bohemian seed beads and Austrian crystal rondelles.</p>
+              <p style="font-size: 0.88rem; color: #E5DCE8 !important; margin: 0.3rem 0 0; line-height: 1.6;">Housing over 400 varieties of vintage Bohemian seed beads and Austrian crystal rondelles.</p>
             </div>
             <div style="background: rgba(24, 17, 26, 0.8); padding: 1.2rem; border-radius: var(--radius-sm); border: 1px solid rgba(229, 193, 88, 0.2);">
               <div style="font-size: 1.2rem; font-weight: 700; color: #E5C158;">Gilding Studio</div>
-              <p style="font-size: 0.85rem; color: #D4C7D6; margin: 0.3rem 0 0;">Dedicated electroplating baths for 24-karat gold and palladium alloy finishing.</p>
+              <p style="font-size: 0.88rem; color: #E5DCE8 !important; margin: 0.3rem 0 0; line-height: 1.6;">Dedicated electroplating baths for 24-karat gold and palladium alloy finishing.</p>
             </div>
           </div>
         </div>
@@ -560,17 +560,17 @@ ORIGIN: 181 Mercer St, SoHo, Manhattan
   </section>
 
   <!-- SECTION 12: PRIVATE CONCIERGE & COMMISSION CTA -->
-  <section class="section section-cta" style="padding: 6rem 0; background: linear-gradient(135deg, #18111A 0%, #0D090E 100%); color: #FFFFFF; text-align: center;">
+  <section class="section section-dark section-cta" style="padding: 6rem 0; background: linear-gradient(135deg, #18111A 0%, #0D090E 100%); color: #FFFFFF; text-align: center;">
     <div class="container" style="max-width: 800px;">
       <span class="hero-badge" style="background: rgba(212, 175, 55, 0.2); color: #D4AF37; border: 1px solid rgba(212, 175, 55, 0.4);">PRIVATE SALON APPOINTMENTS OPEN</span>
-      <h2 style="margin: 1.2rem 0; color: #FFFFFF; font-size: clamp(2rem, 4vw, 2.8rem);">Experience Beaded Haute Joaillerie at 181 Mercer</h2>
-      <p class="lead" style="color: #D4C7D6; font-size: 1.15rem; line-height: 1.7; margin-bottom: 2.5rem;">
+      <h2 style="margin: 1.2rem 0; color: #FFFFFF !important; font-size: clamp(2rem, 4vw, 2.8rem);">Experience Beaded Haute Joaillerie at 181 Mercer</h2>
+      <p class="lead" style="color: #F3EBF5 !important; font-size: 1.15rem; line-height: 1.7; margin-bottom: 2.5rem;">
         Arrange a private viewing in our SoHo Manhattan salon at 181 Mercer Street, New York, NY 10012, or consult directly with our master embroiderers at +1-888-777-5845.
       </p>
       <div style="display: flex; gap: 1.2rem; justify-content: center; flex-wrap: wrap;">
-        <a href="/contact.html" class="btn btn-primary" style="background: #D4AF37; color: #18111A; font-weight: 700; border-color: #D4AF37; padding: 0.9rem 2rem;">Inquire for Private Commission &rarr;</a>
-        <a href="/collection.html" class="btn btn-outline" style="border-color: #FFFFFF; color: #FFFFFF; padding: 0.9rem 2rem;">Explore Full Vitrine</a>
-        <a href="/blog.html" class="btn btn-outline" style="border-color: #E5C158; color: #E5C158; padding: 0.9rem 2rem;">Read Metiers d'Art Treatises</a>
+        <a href="/contact.html" class="btn btn-primary" style="background: #D4AF37; color: #18111A !important; font-weight: 700; border-color: #D4AF37; padding: 0.9rem 2rem;">Inquire for Private Commission &rarr;</a>
+        <a href="/collection.html" class="btn btn-outline btn-outline-white" style="border-color: #FFFFFF !important; color: #FFFFFF !important; padding: 0.9rem 2rem;">Explore Full Vitrine</a>
+        <a href="/blog.html" class="btn btn-outline" style="border-color: #E5C158 !important; color: #E5C158 !important; padding: 0.9rem 2rem;">Read Metiers d'Art Treatises</a>
       </div>
     </div>
   </section>
